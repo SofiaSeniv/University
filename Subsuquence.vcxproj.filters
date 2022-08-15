@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Zeros.cpp">
+    <ClCompile Include="Subsuquence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

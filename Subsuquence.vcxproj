@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3cad8975-adc7-4494-adf5-be9755d613af}</ProjectGuid>
-    <RootNamespace>Zeros</RootNamespace>
+    <ProjectGuid>{91465b5c-7476-4e23-ae5b-67a52681dbef}</ProjectGuid>
+    <RootNamespace>Subsuquence</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Zeros.cpp" />
+    <ClCompile Include="Subsuquence.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
