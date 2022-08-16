@@ -118,5 +118,7 @@ int main()
 	cout << "s = " << s << endl;
 	cout << "p = " << p << endl;
 	delete[] a;*/
+
+	return 0;
 }
 
